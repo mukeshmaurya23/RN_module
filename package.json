@@ -1,0 +1,13 @@
+{
+  "name": "react-native-awesome-module",
+  "version": "0.0.0",
+  "description": "just for test",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "create-react-native-library": {
+    "type": "library",
+    "version": "0.42.0"
+  }
+}
